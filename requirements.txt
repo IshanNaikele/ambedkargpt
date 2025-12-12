@@ -1,0 +1,8 @@
+tiktoken
+pypdf
+sentence-transformers
+spacy
+numpy
+scikit-learn 
+langchain
+langchain_community
